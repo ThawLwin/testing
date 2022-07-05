@@ -1,1 +1,5 @@
-this is hello.js file added to the github
+<body>
+    <script>
+        console.log("HelloWorld")
+    </script>
+</body>
